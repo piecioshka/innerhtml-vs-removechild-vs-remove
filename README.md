@@ -1,10 +1,10 @@
-# innerhtml-vs-removechild
+# innerhtml-vs-removechild-vs-remove
 
 Comparison: `innerHTML` vs `removeChild()` vs `remove()`
 
 ## Demo 🚀
 
-<https://piecioshka.github.io/innerhtml-vs-removechild/>
+<https://piecioshka.github.io/innerhtml-vs-removechild-vs-remove/>
 
 ## Test results
 
