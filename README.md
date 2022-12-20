@@ -2,7 +2,7 @@
 
 Comparison: `innerHTML` vs `removeChild()` vs `remove()`
 
-## Demo 🚀
+## Demo 🎉
 
 <https://piecioshka.github.io/innerhtml-vs-removechild-vs-remove/>
 
